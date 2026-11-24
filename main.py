@@ -9,6 +9,8 @@ Python 3.13, standard library only, no network.
 # is inside the line (years of tending, one first fruit), the scene is
 # concrete, and the pride lands in the last words — he says nothing.
 # One line, 152 characters — inside the 240-character gate.
+# Revision note: re-read the gate after running; the line stays one
+# sentence, one line, no trailing newline.
 import os
 
 TEXT = (
